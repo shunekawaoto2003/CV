@@ -1,0 +1,1186 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2024.1.26)  27 FEB 2024 23:32
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./CV.tex
+(CV.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/bas
+e\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/bas
+e\size11.clo
+File: size11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/ebg
+aramond-maths\ebgaramond-maths.sty
+Package: ebgaramond-maths 2019/09/24 v1.2 ebgaramond-maths for use with EBGaram
+ond
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/ebg
+aramond\ebgaramond.sty
+Package: ebgaramond 2022/09/10 (Bob Tennent and autoinst) Style file for EB Gar
+amond fonts.
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/i
+ftex\ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/i
+ftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/i
+ftex\ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/xke
+yval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/x
+keyval\xkeyval.tex
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/x
+keyval\xkvutils.tex
+\XKV@toks=\toks17
+\XKV@tempa@toks=\toks18
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/x
+keyval\keyval.tex))
+\XKV@depth=\count193
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/bas
+e\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/bas
+e\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/fon
+taxes\fontaxes.sty
+Package: fontaxes 2020/07/21 v1.0e Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+)
+LaTeX Info: Redefining \oldstylenums on input line 161.
+LaTeX Info: Redefining \textsw on input line 169.
+)
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 24.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/EBGaramond-Maths/m/it on input lin
+e 24.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/EBGaramond-Maths/m/it on input lin
+e 24.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/EBGaramond-LF/m/n on input line 25.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/EBGaramond-LF/m/n on input line 25
+.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/EBGaramond-Maths/m/it --> OML/EBGaramond-Maths/b/it
+ on input line 27.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/EBGaramond-LF/m/n --> OT1/EBGaramond-LF/bx/n on inp
+ut line 28.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/EBGaramond-LF/bx/n on input line 3
+3.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/EBGaramond-LF/bx/n on input line 3
+4.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/EBGaramond-LF/m/it on input line 3
+5.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/EBGaramond-LF/bx/it on input line
+ 36.
+LaTeX Font Info:    Redeclaring math alphabet \mathcal on input line 38.
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/bas
+e\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+EBGaramond-OsF on in
+put line 112.
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/ebg
+aramond\t1ebgaramond-osf.fd
+File: T1EBGaramond-OsF.fd 2023/03/19 (autoinst) Font definitions for T1/EBGaram
+ond-OsF.
+)
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
+(Font)              scaled to size 10.95pt on input line 112.
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/bas
+e\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks19
+\inpenc@posthook=\toks20
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/upq
+uote\upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/mic
+rotype\microtype.sty
+Package: microtype 2023/03/13 v3.1a Micro-typographical refinements (RS)
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/eto
+olbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count194
+)
+\MT@toks=\toks21
+\MT@tempbox=\box51
+\MT@count=\count195
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1059.
+LaTeX Info: Redefining \leftprotrusion on input line 1060.
+\MT@prot@toks=\toks22
+LaTeX Info: Redefining \rightprotrusion on input line 1078.
+LaTeX Info: Redefining \textls on input line 1368.
+\MT@outer@kern=\dimen141
+LaTeX Info: Redefining \textmicrotypecontext on input line 1988.
+\MT@listname@count=\count196
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/mic
+rotype\microtype-pdftex.def
+File: microtype-pdftex.def 2023/03/13 v3.1a Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 902.
+LaTeX Info: Redefining \lslig on input line 902.
+\MT@outer@space=\skip50
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/mic
+rotype\microtype.cfg
+File: microtype.cfg 2023/03/13 v3.1a microtype main configuration file (RS)
+))
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/geo
+metry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/i
+ftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count197
+\Gm@cntv=\count198
+\c@Gm@tempcnt=\count199
+\Gm@bindingoffset=\dimen142
+\Gm@wd@mp=\dimen143
+\Gm@odd@mp=\dimen144
+\Gm@even@mp=\dimen145
+\Gm@layoutwidth=\dimen146
+\Gm@layoutheight=\dimen147
+\Gm@layouthoffset=\dimen148
+\Gm@layoutvoffset=\dimen149
+\Gm@dimlist=\toks23
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/geo
+metry\geometry.cfg))
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/too
+ls\longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip51
+\LTright=\skip52
+\LTpre=\skip53
+\LTpost=\skip54
+\LTchunksize=\count266
+\LTcapwidth=\dimen150
+\LT@head=\box52
+\LT@firsthead=\box53
+\LT@foot=\box54
+\LT@lastfoot=\box55
+\LT@gbox=\box56
+\LT@cols=\count267
+\LT@rows=\count268
+\c@LT@tables=\count269
+\c@LT@chunks=\count270
+\LT@p@ftn=\toks24
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/boo
+ktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen151
+\lightrulewidth=\dimen152
+\cmidrulewidth=\dimen153
+\belowrulesep=\dimen154
+\belowbottomsep=\dimen155
+\aboverulesep=\dimen156
+\abovetopsep=\dimen157
+\cmidrulesep=\dimen158
+\cmidrulekern=\dimen159
+\defaultaddspace=\dimen160
+\@cmidla=\count271
+\@cmidlb=\count272
+\@aboverulesep=\dimen161
+\@belowrulesep=\dimen162
+\@thisruleclass=\count273
+\@lastruleclass=\count274
+\@thisrulewidth=\dimen163
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/gra
+phics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/gra
+phics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/gra
+phics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/gra
+phics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/gra
+phics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen164
+\Gin@req@width=\dimen165
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/grf
+file\grffile.sty
+Package: grffile 2019/11/11 v2.1 Extended file name support for graphics (legac
+y)
+Package grffile Info: This package is an empty stub for compatibility on input 
+line 40.
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/cap
+tion\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/cap
+tion\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen166
+\captionmargin=\dimen167
+\caption@leftmargin=\dimen168
+\caption@rightmargin=\dimen169
+\caption@width=\dimen170
+\caption@indent=\dimen171
+\caption@parindent=\dimen172
+\caption@hangindent=\dimen173
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count275
+\c@continuedfloat=\count276
+Package caption Info: longtable package is loaded.
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/cap
+tion\ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+))
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/flo
+at\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count277
+\float@exts=\toks25
+\float@box=\box57
+\@float@everytoks=\toks26
+\@floatcapt=\box58
+)
+\@float@every@codelisting=\toks27
+\c@codelisting=\count278
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/cap
+tion\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count279
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count280
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/sec
+tsty\sectsty.sty
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
+les
+
+
+LaTeX Warning: Command \underbar  has changed.
+               Check if current package is valid.
+
+
+LaTeX Warning: Command \underline  has changed.
+               Check if current package is valid.
+
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/par
+skip\parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/kvo
+ptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/l
+txcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/kvs
+etkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)))
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/fon
+tawesome\fontawesome.sty
+Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/fon
+tawesome\fontawesomesymbols-generic.tex)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/fon
+tawesome\fontawesomesymbols-pdftex.tex))
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/fan
+cyhdr\fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip55
+\f@nch@O@elh=\skip56
+\f@nch@O@erh=\skip57
+\f@nch@O@olh=\skip58
+\f@nch@O@orh=\skip59
+\f@nch@O@elf=\skip60
+\f@nch@O@erf=\skip61
+\f@nch@O@olf=\skip62
+\f@nch@O@orf=\skip63
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/las
+tpage\lastpage.sty
+Package: lastpage 2023/10/14 v2.0e lastpage: 2.09 or 2e? (HMM)
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/las
+tpage\lastpage2e.sty
+Package: lastpage2e 2023/10/14 v2.0e Decide which 2e lastpage version to use (H
+MM)
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/las
+tpage\lastpagemodern.sty
+Package: lastpagemodern 2023-10-14 v2.0e Refers to last page's name (HMM; JPG)
+\c@lastpagecount=\count281
+) 
+))
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/hyp
+erref\hyperref.sty
+Package: hyperref 2023-07-08 v7.01b Hypertext links for LaTeX
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+dftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/i
+nfwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/k
+vdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+dfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/hyc
+olor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/let
+ltxmacro\letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/aux
+hook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/hyp
+erref\nameref.sty
+Package: nameref 2023-08-07 v2.53 Cross-referencing by name of section
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/ref
+count\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/g
+ettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count282
+)
+\@linkdim=\dimen174
+\Hy@linkcounter=\count283
+\Hy@pagecounter=\count284
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/hyp
+erref\pd1enc.def
+File: pd1enc.def 2023-07-08 v7.01b Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/i
+ntcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count285
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/hyp
+erref\puenc.def
+File: puenc.def 2023-07-08 v7.01b Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4167.
+Package hyperref Info: Link nesting OFF on input line 4172.
+Package hyperref Info: Hyper index ON on input line 4175.
+Package hyperref Info: Plain pages OFF on input line 4182.
+Package hyperref Info: Backreferencing OFF on input line 4187.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4434.
+\c@Hy@tempcnt=\count286
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/url
+\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4772.
+\XeTeXLinkMargin=\dimen175
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/b
+itset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/b
+igintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count287
+\Field@Width=\dimen176
+\Fld@charsize=\dimen177
+Package hyperref Info: Hyper figures OFF on input line 6051.
+Package hyperref Info: Link nesting OFF on input line 6056.
+Package hyperref Info: Hyper index ON on input line 6059.
+Package hyperref Info: backreferencing OFF on input line 6066.
+Package hyperref Info: Link coloring OFF on input line 6071.
+Package hyperref Info: Link coloring with OCG OFF on input line 6076.
+Package hyperref Info: PDF/A mode OFF on input line 6081.
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/bas
+e\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count288
+\c@Item=\count289
+\c@Hfootnote=\count290
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/hyp
+erref\hpdftex.def
+File: hpdftex.def 2023-07-08 v7.01b Hyperref driver for pdfTeX
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/bas
+e\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count291
+\c@bookmark@seq@number=\count292
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/rer
+unfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/u
+niquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip64
+)
+Package hyperref Info: Option `unicode' set `true' on input line 161.
+Package hyperref Info: Option `colorlinks' set `true' on input line 161.
+Package hyperref Info: Option `breaklinks' set `true' on input line 161.
+
+
+Package hyperref Warning: Option `bookmarks' has already been used,
+(hyperref)                setting the option has no effect on input line 161.
+
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/dat
+etime\datetime.sty
+Package: datetime 2015/03/20 v2.60 Date Time Package
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/fmt
+count\fmtcount.sty
+Package: fmtcount 2020/01/30 v3.07
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/bas
+e\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/fmt
+count\fcprefix.sty
+Package: fcprefix 2012/09/28
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/fmt
+count\fcnumparser.sty
+Package: fcnumparser 2017/06/15
+\fc@digit@counter=\count293
+))
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/ams
+math\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks28
+\ex@=\dimen178
+)
+\c@padzeroesN=\count294
+\fc@tmpcatcode=\count295
+\@DT@modctr=\count296
+\@ordinalctr=\count297
+\@orgargctr=\count298
+\@strctr=\count299
+\@tmpstrctr=\count300
+\@DT@loopN=\count301
+\@DT@X=\count302
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/dat
+etime\datetime-defaults.sty
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count303
+\@month=\count304
+\@year=\count305
+\c@HOUR=\count306
+\c@HOURXII=\count307
+\c@MINUTE=\count308
+\c@TOHOUR=\count309
+\c@TOMINUTE=\count310
+\c@SECOND=\count311
+\currenthour=\count312
+\currentminute=\count313
+\currentsecond=\count314
+Package datetime Info: No datetime.cfg file found, using default settings on in
+put line 308.
+\@dtctr=\count315
+\dayofyear=\count316
+\dayofweek=\count317
+LaTeX Info: Redefining \today on input line 736.
+\dt@a=\toks29
+\dt@b=\toks30
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/orc
+idlink\orcidlink.sty
+Package: orcidlink 2023/12/30 v1.0.5 Linked ORCiD logo macro package
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/pgf
+/frontendlayer\tikz.sty
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/pgf
+/basiclayer\pgf.sty
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/pgf
+/utilities\pgfrcs.sty
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks31
+\pgfutil@tempdima=\dimen179
+\pgfutil@tempdimb=\dimen180
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box59
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/utilities\pgfrcs.code.tex
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf\pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/pgf
+/basiclayer\pgfcore.sty
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/pgf
+/systemlayer\pgfsys.sty
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks32
+\pgfkeys@temptoks=\toks33
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/utilities\pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks34
+))
+\pgf@x=\dimen181
+\pgf@y=\dimen182
+\pgf@xa=\dimen183
+\pgf@ya=\dimen184
+\pgf@xb=\dimen185
+\pgf@yb=\dimen186
+\pgf@xc=\dimen187
+\pgf@yc=\dimen188
+\pgf@xd=\dimen189
+\pgf@yd=\dimen190
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count318
+\c@pgf@countb=\count319
+\c@pgf@countc=\count320
+\c@pgf@countd=\count321
+\t@pgf@toka=\toks35
+\t@pgf@tokb=\toks36
+\t@pgf@tokc=\toks37
+\pgf@sys@id@count=\count322
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/systemlayer\pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count323
+\pgfsyssoftpath@bigbuffer@items=\count324
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/xco
+lor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/gra
+phics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/gra
+phics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/math\pgfmath.code.tex
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/math\pgfmathutil.code.tex)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen191
+\pgfmath@count=\count325
+\pgfmath@box=\box60
+\pgfmath@toks=\toks38
+\pgfmath@stack@operand=\toks39
+\pgfmath@stack@operation=\toks40
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/math\pgfmathfunctions.code.tex)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/math\pgfmathfunctions.basic.code.tex)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/math\pgfmathfunctions.trigonometric.code.tex)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/math\pgfmathfunctions.random.code.tex)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/math\pgfmathfunctions.comparison.code.tex)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/math\pgfmathfunctions.base.code.tex)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/math\pgfmathfunctions.round.code.tex)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/math\pgfmathfunctions.misc.code.tex)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/math\pgfmathfunctions.integerarithmetics.code.tex)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/math\pgfmathcalc.code.tex)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count326
+))
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/math\pgfint.code.tex)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen192
+\pgf@picmaxx=\dimen193
+\pgf@picminy=\dimen194
+\pgf@picmaxy=\dimen195
+\pgf@pathminx=\dimen196
+\pgf@pathmaxx=\dimen197
+\pgf@pathminy=\dimen198
+\pgf@pathmaxy=\dimen199
+\pgf@xx=\dimen256
+\pgf@xy=\dimen257
+\pgf@yx=\dimen258
+\pgf@yy=\dimen259
+\pgf@zx=\dimen260
+\pgf@zy=\dimen261
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen262
+\pgf@path@lasty=\dimen263
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen264
+\pgf@shorten@start@additional=\dimen265
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box61
+\pgf@hbox=\box62
+\pgf@layerbox@main=\box63
+\pgf@picture@serial@count=\count327
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen266
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen267
+\pgf@pt@y=\dimen268
+\pgf@pt@temp=\dimen269
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen270
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen271
+\pgf@sys@shading@range@num=\count328
+\pgf@shadingcount=\count329
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box64
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box65
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/pgf
+/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen272
+\pgf@nodesepend=\dimen273
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/pgf
+/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/pgf
+/utilities\pgffor.sty
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/pgf
+/utilities\pgfkeys.sty
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/utilities\pgfkeys.code.tex))
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/pgf
+/math\pgfmath.sty
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/math\pgfmath.code.tex))
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/utilities\pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen274
+\pgffor@skip=\dimen275
+\pgffor@stack=\toks41
+\pgffor@toks=\toks42
+))
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count330
+\pgfplotmarksize=\dimen276
+)
+\tikz@lastx=\dimen277
+\tikz@lasty=\dimen278
+\tikz@lastxsaved=\dimen279
+\tikz@lastysaved=\dimen280
+\tikz@lastmovetox=\dimen281
+\tikz@lastmovetoy=\dimen282
+\tikzleveldistance=\dimen283
+\tikzsiblingdistance=\dimen284
+\tikz@figbox=\box66
+\tikz@figbox@bg=\box67
+\tikz@tempbox=\box68
+\tikz@tempbox@bg=\box69
+\tikztreelevel=\count331
+\tikznumberofchildren=\count332
+\tikznumberofcurrentchild=\count333
+\tikz@fig@count=\count334
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count335
+\pgfmatrixcurrentcolumn=\count336
+\pgf@matrix@numberofcolumns=\count337
+)
+\tikz@expandcount=\count338
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/frontendlayer/tikz/libraries\tikzlibrarysvg.path.code.tex
+File: tikzlibrarysvg.path.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/libraries\pgflibrarysvg.path.code.tex
+File: pgflibrarysvg.path.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/generic/p
+gf/modules\pgfmoduleparser.code.tex
+File: pgfmoduleparser.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfparserdef@arg@count=\count339
+)
+\pgf@lib@svg@last@x=\dimen285
+\pgf@lib@svg@last@y=\dimen286
+\pgf@lib@svg@last@c@x=\dimen287
+\pgf@lib@svg@last@c@y=\dimen288
+\pgf@lib@svg@count=\count340
+\pgf@lib@svg@max@num=\count341
+))
+\@curXheight=\skip65
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/l3b
+ackend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count342
+\l__pdf_internal_box=\box70
+)
+No file CV.aux.
+\openout1 = `CV.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/EBGaramond-Maths/m/it on input li
+ne 178.
+LaTeX Font Info:    Trying to load font information for OML+EBGaramond-Maths on
+ input line 178.
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/ebg
+aramond-maths\omlebgaramond-maths.fd
+File: OMLEBGaramond-Maths.fd 2019/09/24 font definitions for OML/EBGaramond-Mat
+hs.
+)
+LaTeX Font Info:    ... okay on input line 178.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 178.
+LaTeX Font Info:    ... okay on input line 178.
+LaTeX Font Info:    Checking defaults for OT1/EBGaramond-LF/m/n on input line 1
+78.
+LaTeX Font Info:    Trying to load font information for OT1+EBGaramond-LF on in
+put line 178.
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/ebg
+aramond\ot1ebgaramond-lf.fd
+File: OT1EBGaramond-LF.fd 2023/03/19 (autoinst) Font definitions for OT1/EBGara
+mond-LF.
+)
+LaTeX Font Info:    ... okay on input line 178.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 178.
+LaTeX Font Info:    ... okay on input line 178.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 178.
+LaTeX Font Info:    ... okay on input line 178.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 178.
+LaTeX Font Info:    ... okay on input line 178.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 178.
+LaTeX Font Info:    ... okay on input line 178.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 178.
+LaTeX Font Info:    ... okay on input line 178.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 178.
+LaTeX Font Info:    ... okay on input line 178.
+\c@mv@tabular=\count343
+\c@mv@boldtabular=\count344
+LaTeX Info: Redefining \microtypecontext on input line 178.
+Package microtype Info: Applying patch `item' on input line 178.
+Package microtype Info: Applying patch `toc' on input line 178.
+Package microtype Info: Applying patch `eqnum' on input line 178.
+Package microtype Info: Applying patch `footnote' on input line 178.
+Package microtype Info: Applying patch `verbatim' on input line 178.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using protrusion set `basicmath'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 178.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/mic
+rotype\mt-EBGaramond.cfg
+File: mt-EBGaramond.cfg 2021/10/25 v2.0 microtype config. file: EB Garamond / A
+dobe Garamond (RS)
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/context/b
+ase/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count345
+\scratchdimen=\dimen289
+\scratchbox=\box71
+\nofMPsegments=\count346
+\nofMParguments=\count347
+\everyMPshowfont=\toks43
+\MPscratchCnt=\count348
+\MPscratchDim=\dimen290
+\MPnumerator=\count349
+\makeMPintoPDFobject=\count350
+\everyMPtoPDFconversion=\toks44
+)
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/eps
+topdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/00m
+iktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring ON on input line 178.
+\@outlinefile=\write4
+\openout4 = `CV.out'.
+
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/fmt
+count\fc-english.def
+File: fc-english.def 2016/01/12
+)
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
+(Font)              scaled to size 20.74pt on input line 181.
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/b/n' will be
+(Font)              scaled to size 20.74pt on input line 181.
+LaTeX Font Info:    Trying to load font information for U+fontawesometwo on inp
+ut line 191.
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/fon
+tawesome\ufontawesometwo.fd
+File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
+)
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
+91.
+
+(C:\Users\kawao\Documents\UCLA\2024 Winter\Stats 140XP\New folder\tex/latex/bas
+e\t1cmtt.fd
+File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
+(Font)              scaled to size 14.4pt on input line 201.
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/b/n' will be
+(Font)              scaled to size 14.4pt on input line 201.
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 201.
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/b/n' will be
+(Font)              scaled to size 12.0pt on input line 201.
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/it' will be
+(Font)              scaled to size 10.95pt on input line 203.
+ [1
+
+{C:/Users/kawao/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/kawa
+o/Documents/UCLA/2024 Winter/Stats 140XP/New folder/fonts/enc/dvips/ebgaramond/
+ebg_tcdnmr.enc}{C:/Users/kawao/Documents/UCLA/2024 Winter/Stats 140XP/New folde
+r/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{C:/Users/kawao/Documents/UCLA
+/2024 Winter/Stats 140XP/New folder/fonts/enc/dvips/ebgaramond/ebg_ljow5q.enc}]
+ 
+enddocument/afterlastpage: lastpage setting LastPage.
+(CV.aux)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+ ***********
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `CV.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `CV.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  50BCFD2A30F5F026FE492830555D3CBA;343.
+
+Package lastpage Warning: Rerun to get the references right on input line 210.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 27135 strings out of 475248
+ 522215 string characters out of 5748399
+ 1922785 words of memory out of 5000000
+ 48155 multiletter control sequences out of 15000+600000
+ 618621 words of font info for 75 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 99i,11n,117p,1016b,468s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\kawao\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt
+1095.pk><C:/Users/kawao/Documents/UCLA/2024 Winter/Stats 140XP/New folder/fonts
+/type1/public/ebgaramond/EBGaramond-Bold.pfb><C:/Users/kawao/Documents/UCLA/202
+4 Winter/Stats 140XP/New folder/fonts/type1/public/ebgaramond/EBGaramond-Italic
+.pfb><C:/Users/kawao/Documents/UCLA/2024 Winter/Stats 140XP/New folder/fonts/ty
+pe1/public/ebgaramond/EBGaramond-Regular.pfb><C:/Users/kawao/Documents/UCLA/202
+4 Winter/Stats 140XP/New folder/fonts/type1/public/fontawesome/FontAwesome.pfb>
+Output written on CV.pdf (1 page, 73758 bytes).
+PDF statistics:
+ 69 PDF objects out of 1000 (max. 8388607)
+ 5 named destinations out of 1000 (max. 500000)
+ 24589 words of extra memory for PDF output out of 24883 (max. 10000000)
+
