@@ -67,7 +67,8 @@ validate-yaml: false
   - Used machine learning models to impute and predict individuals' alcoholic statuses with a 73% predicting rate.
 - **[Analysis of Lighting Conditions Affecting Perception of Photos](https://github.com/shunekawaoto2003/Analysis-of-light-conditions)**
   - Used a random forest model to predict how different lighting conditions affects the perceptions of photos.
+<!-- - **[Predicting Diabetes Diagnosis from Health Data] -->
 
 # Technical Experience
-C++, R, Python, SQL, Excel, Stata, GIS
+C++, R, Python, SQL, Stata, GIS, Git, Microsoft Office
 
